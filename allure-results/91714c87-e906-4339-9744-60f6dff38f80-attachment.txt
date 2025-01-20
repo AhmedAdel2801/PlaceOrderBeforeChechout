@@ -1,0 +1,75 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                               Test Method: 'Task15.Tests.verifyHomePageIsVisible'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Assert that the element located by "By.xpath: //a[@style="color: orange;"]" is visible; hidden attribute is equal to "null". @20-01-2025 22:57:35.0929 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:57:36.0289 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_22-57-48-170_20012025' @20-01-2025 22:57:48.0186 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:57:48.0186 PM
+[ReportManager] Assertion passed @20-01-2025 22:57:48.0201 PM
+[ReportManager] Click " Signup / Login" @20-01-2025 22:57:50.0529 PM
+[ReportManager] Assert that the element located by "By.xpath: //a[@href='/login']" is visible; hidden attribute is equal to "null". @20-01-2025 22:57:50.0532 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:57:50.0780 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_22-57-51-647_20012025' @20-01-2025 22:57:51.0663 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:57:51.0664 PM
+[ReportManager] Assertion passed @20-01-2025 22:57:51.0665 PM
+[ReportManager] Type "Name" @20-01-2025 22:57:52.0073 PM
+[ReportManager] Type "Email Address" @20-01-2025 22:57:52.0417 PM
+[ReportManager] Click "Signup" @20-01-2025 22:57:54.0560 PM
+[ReportManager] Click "Mr." @20-01-2025 22:57:55.0277 PM
+[ReportManager] Type "Password *" @20-01-2025 22:57:55.0656 PM
+[ReportManager] Click "30" @20-01-2025 22:57:55.0826 PM
+[ReportManager] Click "October" @20-01-2025 22:57:55.0945 PM
+[ReportManager] Click "2000" @20-01-2025 22:57:56.0119 PM
+[ReportManager] Click "Sign up for our newsletter!" @20-01-2025 22:57:56.0392 PM
+[ReportManager] Click "Receive special offers from our partners!" @20-01-2025 22:57:56.0682 PM
+[ReportManager] Type "First name *" @20-01-2025 22:57:57.0032 PM
+[ReportManager] Type "Last name *" @20-01-2025 22:57:57.0412 PM
+[ReportManager] Type "Company" @20-01-2025 22:57:57.0728 PM
+[ReportManager] Type "Address * (Street address, P.O. Box, Company name, etc.)" @20-01-2025 22:57:58.0169 PM
+[ReportManager] Type "Address 2" @20-01-2025 22:57:58.0528 PM
+[ReportManager] Click "India" @20-01-2025 22:57:58.0662 PM
+[ReportManager] Type "State *" @20-01-2025 22:57:59.0161 PM
+[ReportManager] Type "City * Zipcode *" @20-01-2025 22:57:59.0528 PM
+[ReportManager] Type "By.xpath: //input[@data-qa='zipcode']" @20-01-2025 22:57:59.0961 PM
+[ReportManager] Type "Mobile Number *" @20-01-2025 22:58:00.0376 PM
+[ReportManager] Click "Create Account" @20-01-2025 22:58:02.0832 PM
+[ReportManager] Click "Continue" @20-01-2025 22:58:06.0351 PM
+[ReportManager] Assert that the element located by "By.xpath: //a[@href='/logout']" is visible; hidden attribute is equal to "null". @20-01-2025 22:58:06.0364 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:58:06.0572 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_22-58-16-787_20012025' @20-01-2025 22:58:16.0802 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:58:16.0802 PM
+[ReportManager] Assertion passed @20-01-2025 22:58:16.0802 PM
+[ReportManager] Click " Add to cart" @20-01-2025 22:58:17.0015 PM
+[ReportManager] Click "By.xpath: (//button[@class="btn btn-success close-modal btn-block"])" @20-01-2025 22:58:17.0903 PM
+[ReportManager] Click " Add to cart" @20-01-2025 22:58:18.0156 PM
+[ReportManager] Click "Continue Shopping" @20-01-2025 22:58:18.0604 PM
+[ReportManager] Click " Add to cart" @20-01-2025 22:58:18.0854 PM
+[ReportManager] Click "Continue Shopping" @20-01-2025 22:58:19.0353 PM
+[ReportManager] Click "By.xpath: //a[@href="/view_cart"]/i[contains(.,Cart)]" @20-01-2025 22:58:21.0165 PM
+[ReportManager] Assert that the element located by "By.xpath: //a[@href="/view_cart"]/i[contains(.,Cart)]" is visible; hidden attribute is equal to "null". @20-01-2025 22:58:21.0167 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:58:21.0423 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_22-58-22-544_20012025' @20-01-2025 22:58:22.0544 PM
+[ReportManager] Expected "null", and actual "null" @20-01-2025 22:58:22.0544 PM
+[ReportManager] Assertion passed @20-01-2025 22:58:22.0544 PM
+[ReportManager] Click "Proceed To Checkout" @20-01-2025 22:58:24.0149 PM
+[ReportManager] Get text "YOUR DELIVERY ADDRESS
+Mr. dodddz dodd
+Vois
+FifthSettlment
+El-atameya
+tagmo3 cairo 552
+India
+01002191102" from "By.xpath: //ul[@class='address item box']". @20-01-2025 22:58:24.0325 PM
+[ReportManager] Type "By.xpath: //textarea[@class='form-control']" @20-01-2025 22:58:24.0772 PM
+[ReportManager] Click "Place Order" @20-01-2025 22:58:25.0847 PM
+[ReportManager] Type "By.xpath: //input[@data-qa='name-on-card']" @20-01-2025 22:58:26.0536 PM
+[ReportManager] Type "By.xpath: //input[@data-qa='card-number']" @20-01-2025 22:58:26.0904 PM
+[ReportManager] Type "ex. 311" @20-01-2025 22:58:27.0202 PM
+[ReportManager] Type "MM" @20-01-2025 22:58:27.0504 PM
+[ReportManager] Type "YYYY" @20-01-2025 22:58:27.0771 PM
+[ReportManager] Click "Pay and Confirm Order" @20-01-2025 22:58:30.0893 PM
+[ReportManager] Click " Delete Account" @20-01-2025 22:58:32.0540 PM
+[ReportManager] Click "Continue" @20-01-2025 22:58:35.0235 PM
